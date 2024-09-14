@@ -1,0 +1,213 @@
+*{
+    
+    list-style-type: none;
+    text-decoration: none;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.row, .d-flex{
+    display: flex;
+    gap: 10px;
+}
+.col-md-6{
+    width: 50%;
+}
+.col-md-8{
+    width: 12.5%;
+}
+.col-md-4{
+    width: 33.333%;
+}
+.col-md-3{
+    width: 25%;
+}
+.col-md-12{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+.i{
+    width: 80%;
+}
+.ig{
+    width: 10%;
+}
+.wt{
+    color: white;
+}
+.justify{
+    justify-content: center;
+}
+.align{
+    align-items: center;
+}
+.text{
+    text-align: center;
+}
+header{
+    background-color:wheat;
+    position: sticky;
+    bottom: 0px;
+    padding: 5px 0px;
+}
+.f-22{
+ font-size: 22px;
+ padding: 260px;
+ margin-top: 100px;
+}
+.f-sc{
+    font-size: 16px;
+    color:black; 
+}
+.f-s{
+    font-size: 16px;
+}
+.f-18{
+    font-size: 18px;
+    color: #6c757d;
+}
+.f-20{
+    font-size: 30px;
+}
+.call-infor{
+    background-color: #d0a772;
+
+}
+.f-60{
+    font-size: 64px;
+}
+.f-sc:hover{
+    background-color:white;
+    padding: 0px 20px;
+    border-radius: 5px;
+}
+section{
+    background-image: url(https://img.freepik.com/premium-photo/cook-chef-with-big-explosion-kitchen_207634-3621.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    width: 100%;
+}
+.mg{
+    margin: 0 auto;
+    height: 600px;
+    display: flex;
+}
+.mg1{
+    margin-bottom: 20px;
+}
+.mg2{
+    margin-top: 40px;
+}
+.mg4{
+    margin-left: 300px;
+}
+.content{
+    height: 100%;
+    width: 100%;
+}
+.bl{
+    color:#cfa671;
+}
+.hegiht{
+    height: 600px;
+}
+.border{
+    background-color: transparent;
+    color: white;
+    background-image: none;
+    border:2px solid #cfa671;
+    cursor: grab;
+    padding: 5px 30px;
+}
+.c{
+    color: #cfa671;
+    margin-bottom: 40px;
+}
+.D{
+    font-size: 30px;
+    color: #cfa671;
+    padding-left: 280px;
+}
+.g{
+    font-size: 28px;
+    color: #010101;
+}
+.dp{
+    font-size: 18px;
+    color:#6c757d ;
+}
+h1{
+    font-size:30px;
+    padding-left: 160px;
+}
+.mg3{
+    margin-top: 90px;
+}
+.box{
+    background-image: url(https://indianhouseofdosas.com/images/qt-bg-ihod.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    padding: 70px 0;
+    margin-top: 70px;
+}
+.lead{
+    padding: 0%;
+    margin: 0%;   
+    font-size: 20px;
+}
+.boxex{
+    font-size: 35px;
+    font-weight: 300;
+    color: #fff;
+    margin-bottom: 50px;
+}
+footer{
+    font-size: 24px;
+    color: #fff;
+    border-bottom: 1px dashed #d0a772;
+    margin-bottom: 10px;
+    position: relative;
+}
+.bg{
+    background-color: #010101;
+    position: absolute;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.bg1{
+    background-image: url(https://indianhouseofdosas.com/images/footer-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-attachment:scroll;
+    background-color: transparent;
+    background-clip: initial;
+    background-origin: initial;
+}
+.map{
+    display: block;
+    text-align: center;
+    padding: 5px 0px;
+    
+}
+.end{
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    background-color: #010101;
+    font-size: 20px;
+}
+logo{
+    margin-left: 400px;
+}
+.layer{
+    background-color: #0101012c;
+}
